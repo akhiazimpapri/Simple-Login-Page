@@ -1,2 +1,2 @@
-A saimple logIn page.<br>
+A simple login page.<br>
 Author - Akhi Azim Papri.
